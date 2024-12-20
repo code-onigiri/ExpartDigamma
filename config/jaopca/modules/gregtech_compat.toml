@@ -1,0 +1,22 @@
+
+[general]
+	#The material blacklist of this module.
+	materialBlacklist = []
+
+[recipes]
+	#Should the module only add molten recipes for materials with JAOPCA molten fluids.
+	jaopcaOnly = true
+	autoclaveToCrystalMaterialBlacklist = []
+	implosionToCrystalMaterialBlacklist = []
+	toMaterialMaterialBlacklist = []
+	toBlockMaterialBlacklist = []
+	toNuggetMaterialBlacklist = []
+	toPlateMaterialBlacklist = []
+	toDensePlateMaterialBlacklist = []
+	toGearMaterialBlacklist = []
+	toStickMaterialBlacklist = []
+	smallDustPackingMaterialBlacklist = []
+	tinyDustPackingMaterialBlacklist = []
+	mortarToDustMaterialBlacklist = []
+	recyclingMaterialBlacklist = []
+

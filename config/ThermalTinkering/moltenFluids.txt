@@ -1,0 +1,50 @@
+#This is a simple dump of all molten liquids, in raw form, with their block names (in brackets) and their localized names, in the format of:
+
+#FLUIDID 										  (FLUIDBLOCK)																	   = FLUIDLOCALIZEDNAME
+
+#ANY AND ALL CHANGES TO THIS FILE WILL BE REPLACED WHEN THIS FILE IS REGENERATED NEXT TIME THE GAME IS RUN. THIS IS FOR INFORMATIONAL PURPOSES ONLY AND IS NOT A CONFIG FILE!
+
+electrical_steel                                  (enderio:block_fluid_electrical_steel)                                           = Molten Electrical Steel
+energetic_alloy                                   (enderio:block_fluid_energetic_alloy)                                            = Molten Energetic Alloy
+vibrant_alloy                                     (enderio:block_fluid_vibrant_alloy)                                              = Molten Vibrant Alloy
+redstone_alloy                                    (enderio:block_fluid_redstone_alloy)                                             = Molten Redstone Alloy
+conductive_iron                                   (enderio:block_fluid_conductive_iron)                                            = Molten Conductive Iron
+pulsating_iron                                    (enderio:block_fluid_pulsating_iron)                                             = Molten Pulsating Iron
+dark_steel                                        (enderio:block_fluid_dark_steel)                                                 = Molten Dark Steel
+soularium                                         (enderio:block_fluid_soularium)                                                  = Molten Soularium
+end_steel                                         (enderio:block_fluid_end_steel)                                                  = Molten End Steel
+construction_alloy                                (enderio:block_fluid_construction_alloy)                                         = Molten Iron Alloy
+fierymetal                                        (twilightforest:molten_fierymetal)                                               = Molten Fiery
+knightmetal                                       (twilightforest:molten_knightmetal)                                              = Molten Knightmetal
+obsidian                                          (tconstruct:molten_obsidian)                                                     = 溶けた黒曜石
+iron                                              (tconstruct:molten_iron)                                                         = 溶けた鉄
+pigiron                                           (tconstruct:molten_pigiron)                                                      = 溶けたブタ鉄
+knightslime                                       (tconstruct:molten_knightslime)                                                  = 溶けたナイトスライム
+cobalt                                            (tconstruct:molten_cobalt)                                                       = 溶けたコバルト
+ardite                                            (tconstruct:molten_ardite)                                                       = 溶けたアーダイト
+manyullyn                                         (tconstruct:molten_manyullyn)                                                    = 溶けたマニュリン
+copper                                            (tconstruct:molten_copper)                                                       = 溶けた銅
+bronze                                            (tconstruct:molten_bronze)                                                       = 溶けた青銅
+lead                                              (tconstruct:molten_lead)                                                         = 溶けた鉛
+silver                                            (tconstruct:molten_silver)                                                       = 溶けた銀
+electrum                                          (tconstruct:molten_electrum)                                                     = 溶けたエレクトラム
+steel                                             (tconstruct:molten_steel)                                                        = 溶けた鋼鉄
+xu_evil_metal                                     ([no block])                                                                     = Evil Infused Iron
+xu_enchanted_metal                                ([no block])                                                                     = Enchanted Metal
+xu_demonic_metal                                  ([no block])                                                                     = Molten Demon Metal
+constantan                                        (immersiveengineering:molten_constantan)                                         = Molten Constantan
+soulium                                           (mysticalagradditions:molten_soulium)                                            = Molten Soulium
+base_essence                                      (mysticalagradditions:molten_base_essence)                                       = Molten Base Essence
+inferium                                          (mysticalagradditions:molten_inferium)                                           = Molten Inferium
+prudentium                                        (mysticalagradditions:molten_prudentium)                                         = Molten Prudentium
+intermedium                                       (mysticalagradditions:molten_intermedium)                                        = Molten Intermedium
+superium                                          (mysticalagradditions:molten_superium)                                           = Molten Superium
+supremium                                         (mysticalagradditions:molten_supremium)                                          = Molten Supremium
+boron                                             (tconstruct:molten_boron)                                                        = Molten Boron
+tough                                             (nuclearcraft:fluid_tough)                                                       = Molten Tough Alloy
+hard_carbon                                       (nuclearcraft:fluid_hard_carbon)                                                 = Molten Hard Carbon
+thorium                                           (tconstruct:molten_thorium)                                                      = Liquid Thorium
+uranium                                           (immersiveengineering:molten_uranium)                                            = Liquid Uranium 238
+magnesium                                         (tconstruct:molten_magnesium)                                                    = Liquid Magnesium
+milk_chocolate                                    (nuclearcraft:fluid_milk_chocolate)                                              = Molten Milk Chocolate
+molten_ichorium                                   ([no block])                                                                     = Molten Ichorium
